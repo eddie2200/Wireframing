@@ -14,15 +14,15 @@ The Figmify: From Wireframe to Prototype project introduces learners to the esse
 - Create interactive prototypes to demonstrate user flows like booking and checkout.
 - Export design assets (icons, images, components) for frontend development.
 - Document design specifications in Figma for developers (spacing, sizing, colors).
-  ## Wireframing
+## What is Wireframing?
 Wireframing is the process of creating a visual blueprint of a digital product, such as a website or mobile app. It outlines the structure, layout, and functionality of key pages without focusing on colors, fonts, or detailed design elements. Wireframes serve as a bridge between the initial concept and the final design.
 - The importance of wireframing lies in its ability to:
 - Provide a clear visual guide for content placement and navigation.
 - Help designers and developers identify usability issues early before coding begins.
 - Encourage collaboration and feedback among stakeholders, reducing costly revisions later.
 - Speed up the design process by allowing teams to focus first on functionality and user flow before moving into high-fidelity design.
-  ## Key Elements of Wireframing
-  1. Layout Structure
+**Key Elements of Wireframing**
+1. Layout Structure
 Explanation: Defines the overall arrangement of sections on a page (e.g., header, body, footer, sidebars).
 Example: A homepage layout might feature a top navigation bar, a central search area, and a footer with links — ensuring users can quickly find what they need.
 2. Navigation
@@ -56,7 +56,9 @@ Description: Detailed, polished versions that closely resemble the final product
 - Limitations: Takes more time to create and requires more design effort.
 
 **Type of Wireframe in This Project**
+
 (https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f)
+
 For the Airbnb Clone Project, the wireframes designed in Figma fall under **High-Fidelity Wireframes** because:
 - They use actual fonts, colors, and branding (e.g., Airbnb’s theme colors).
 - They include realistic property images, detailed booking forms, and navigation.
