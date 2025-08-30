@@ -24,6 +24,7 @@ Wireframing is the process of creating a visual blueprint of a digital product, 
 **Key Elements of Wireframing**
 
 | Key Element            | Explanation | 
+|------------------------|-------------|
 |1. Layout Structure     |Defines the overall arrangement of sections on a page (e.g., header, body, footer, sidebars).
 Example: A homepage layout might feature a top navigation bar, a central search area, and a footer with links — ensuring users can quickly find what they need.|
 |2. Navigation          |Represents how users move between pages or sections, usually through menus, links, or buttons.
