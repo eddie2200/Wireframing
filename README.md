@@ -22,18 +22,16 @@ Wireframing is the process of creating a visual blueprint of a digital product, 
 - Encourage collaboration and feedback among stakeholders, reducing costly revisions later.
 - Speed up the design process by allowing teams to focus first on functionality and user flow before moving into high-fidelity design.
 **Key Elements of Wireframing**
-1. Layout Structure
-Explanation: Defines the overall arrangement of sections on a page (e.g., header, body, footer, sidebars).
-Example: A homepage layout might feature a top navigation bar, a central search area, and a footer with links — ensuring users can quickly find what they need.
-2. Navigation
-Explanation: Represents how users move between pages or sections, usually through menus, links, or buttons.
-Example: A top navigation menu with “Home,” “Listings,” and “Checkout” helps users move seamlessly across the booking system.
-3. Content Placement
-Explanation: Shows where text, images, and interactive elements will be located. This ensures clarity and balance in presenting information.
-Example: In a property listing, placing the property image at the top with the title and price below ensures users immediately see the most important details.
-4. Functionality
-Explanation: Demonstrates how interactive elements will work, such as buttons, forms, or filters.
-Example: A “Book Now” button on a property detail page makes the user flow clear by guiding users toward completing their booking.
+
+| Key Element            | Explanation | 
+|1. Layout Structure     |Defines the overall arrangement of sections on a page (e.g., header, body, footer, sidebars).
+Example: A homepage layout might feature a top navigation bar, a central search area, and a footer with links — ensuring users can quickly find what they need.|
+|2. Navigation          |Represents how users move between pages or sections, usually through menus, links, or buttons.
+Example: A top navigation menu with “Home,” “Listings,” and “Checkout” helps users move seamlessly across the booking system.|
+|3. Content Placement   |Shows where text, images, and interactive elements will be located. This ensures clarity and balance in presenting information.
+Example: In a property listing, placing the property image at the top with the title and price below ensures users immediately see the most important details.|
+|4. Functionality       |Demonstrates how interactive elements will work, such as buttons, forms, or filters.
+Example: A “Book Now” button on a property detail page makes the user flow clear by guiding users toward completing their booking.|
 ## Types of Wireframes
 Wireframes come in two main forms — low-fidelity and high-fidelity — each serving a specific purpose in the design process.
 **Low-Fidelity Wireframes**
